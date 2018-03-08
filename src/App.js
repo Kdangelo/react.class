@@ -37,7 +37,7 @@ class App extends Component {
         <Grid>
           <Row>
             <Col xs={12}>
-              <AppBar title='Pronóstico Belu'/>
+              <AppBar title='Weather Location'/>
             </Col>
           </Row>
           <Row>
